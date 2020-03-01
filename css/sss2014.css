@@ -1,0 +1,27 @@
+body#sss2014body div#sss2014 {
+	display:block;
+	position:relative;
+	width:100%;
+	background-color:#FFF5EE;
+	border-bottom:1px solid #CCCCCC;
+	}
+	
+body h1.topimage{
+	display:block;
+	width:100%;
+	}
+	
+body p.sss{
+	font-weight:bolder;
+}
+
+body .iro1{
+	color:blue;
+}
+
+body .iro2{
+	color:green;
+}
+
+body .sss2013{
+	align="right"}

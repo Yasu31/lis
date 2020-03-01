@@ -1,0 +1,12 @@
+body#katsudourinenbody div#katsudourinen {
+	display:block;
+	position:relative;
+	width:100%;
+	background-color:#FFF5EE;
+	border-bottom:1px solid #CCCCCC;
+	}
+	
+body#katsudourinenbody div#katsudourinen ul{
+	list-style-position:inside;
+	margin-left:5px;
+	}

@@ -1,0 +1,94 @@
+@font-face {
+   font-family: konatsu;
+   src: url('../fonts/konatsu.woff') format("woff");
+}
+@font-face {
+   font-family: flopdesign;
+   src: url('../fonts/flopdesign.woff') format("woff");
+}
+@font-face {
+   font-family: centurygothic;
+   src: url('../fonts/centurygothic.woff') format("woff");
+}
+
+#bg{
+	z-index:-1;
+	top:0;
+    left:0;
+    right:0;
+    bottom:0;
+	position:fixed;
+	background:url("../img/kiinsai/bk.jpg") no-repeat center;
+    background-size:auto 100vh;
+}
+
+.wrapper{
+    width:980px;
+    margin: 0 auto 0 auto;
+    padding: 100px 0 0 0;
+    position:relative;
+}
+ 
+header{
+    background:url("../img/kiinsai/header.jpg");
+    height:100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+body{
+	 font-family:flopdesign;
+}
+
+header h1{
+	color:white;
+	position:absolute;
+	left:20px;
+}
+
+header #nav{
+	position:absolute;
+	right:20px;
+	top:30px;
+	margin: 10px 50px 0 0;
+}
+
+header #nav li{
+    float:left;
+    margin-left:60px;
+    list-style-type: none;
+}
+
+#nav a:link {
+	color: #999;
+	text-decoration:none;
+}
+#nava:visited {
+	color: #999;
+	text-decoration:none;
+}
+#nava:hover {
+	color: #999;
+	text-decoration:none;
+}
+#nav a:active {
+	color: #999;
+	text-decoration:none;
+}
+
+section{
+    text-align:center;
+    height:500px;
+    background:url("../img/kiinsai/toka.png");
+    font-size: x-large;
+}
+
+footer{
+    background:url("../img/header_bg.jpg");
+    height:35px;
+    width:100%;
+    text-align:center;
+}

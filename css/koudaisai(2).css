@@ -1,0 +1,82 @@
+<!--koudaisai.css-->
+
+#all{
+	margin:5px auto
+	
+	}
+
+#topimg{
+	width="980" 
+	height="350"
+	border-bottom:1px 
+	solid #ffffff; 
+	alt="Now loading..." 
+	class="bg bgt"
+	}
+
+
+#aisatsu{
+	font-size:130%;
+	padding:20px;
+	line-height:110%;
+	width:490px;
+	
+	}
+	
+#syousai{
+	width:490px;
+	position:absolute;
+	top:420px;
+	left:550px;
+	font-size:140%;
+	line-height:130%;
+	
+	}	
+	
+#margin1{
+	width:488px;
+	height:20px;
+	
+	}
+
+#category{
+	clear:both;
+	width:490px;
+	background-color:#FFFFFF;
+
+	}
+
+
+#uchuhirobatoha{
+	padding:20px;
+	width:450px;
+	height:220px;
+	font-size:115%;
+	line-height:120%;
+	}
+
+#lis{
+	padding:20px;
+	width:450px;
+	height:220px;
+	font-size:120%;
+	line-height:120%;
+	}
+
+
+
+#umekomi{
+	display:block;
+	position:absolute;
+	width:490px;
+	left:490px;
+	top:555px;
+	}
+	
+#facebook{
+	background-color: #FFFFFF;
+	}
+
+
+
+

@@ -1,0 +1,11 @@
+body#katsudounaiyoubody div#katsudounaiyou {
+	display:block;
+	position:relative;
+	width:100%;
+	background-color:#F0F8FF;
+	border-bottom:1px solid #CCCCCC;
+	}
+	
+body .katsudounaiyou2{
+align:right;
+}

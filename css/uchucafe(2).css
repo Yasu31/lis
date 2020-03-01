@@ -1,0 +1,258 @@
+img.bg {
+	z-index:1;
+	top:0;
+}
+
+div#bg1{
+	position:absolute;
+	top:0;
+	overflow:hidden;
+}
+
+img.bgt{
+	position:relative
+}
+
+img.bgi{
+	position:relative;
+}
+
+div.bgf {
+	position:absolute;
+	top: 647px;
+	overflow:hidden;
+}
+
+div.bgf1 {
+	position:absolute;
+	top: 887px;
+	overflow:hidden;
+}
+
+@media screen and (max-width: 1024px){
+	div#bg1 {
+		left: 0px;
+		width:1024px;
+	}
+	div#bg2 {
+		left:0;
+		width:256px;
+	}
+	div#bg3 {
+		left:256px;
+		width:256px;
+	}
+	div#bg4 {
+		left:512px;
+		width:256px;
+	}
+	div#bg5 {
+		left:768px;
+		width:256px;
+	}
+	div#bg6 {
+		left:0;
+		width:256px;
+	}
+	div#bg7 {
+		left:256px;
+		width:256px;
+	}
+	div#bg8 {
+		left:512px;
+		width:256px;
+	}
+	div#bg9 {
+		left:768px;
+		width:256px;
+	}
+	img.bgt{
+		left:-208px;
+	}
+	img.bgi {
+		left:-52px;
+	}
+	div#top {
+		left: 512px;
+	}
+	div.niretsume{
+		left:128px
+	}
+	div.sanretsume{
+		left:128px
+	}
+}
+
+
+@media screen and (min-width: 1440px){
+	div#bg1,footer {
+		left: 50%;
+		margin-left: -720px;
+	}
+	div#bg2 {
+		left: 50%;
+		margin-left: -720px;
+	}
+	div#bg3 {
+		left: 50%;
+		margin-left: -360px;
+	}
+	div#bg4 {
+		left: 50%;
+	}
+	div#bg5 {
+		left: 50%;
+		margin-left: 360px;
+	}
+	div#bg6 {
+		left: 50%;
+		margin-left: -720px;
+	}
+	div#bg7 {
+		left: 50%;
+		margin-left: -360px;
+	}
+	div#bg8 {
+		left: 50%;
+	}
+	div#bg9 {
+		left: 50%;
+		margin-left: 360px;
+	}
+	img.bgi {
+		left:0;
+	}
+	div.bunsyo {
+		left:50%;
+	}
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1440px){
+	div#bg1 {
+		left: 0;
+		width:100%;
+	}
+	div#bg2 {
+		left:0;
+		width:25%;
+	}
+	div#bg3 {
+		left:25%;
+		width:25%;
+	}
+	div#bg4 {
+		left:50%;
+		width:25%;
+	}
+	div#bg5 {
+		left:75%;
+		width:25%;
+	}
+	div#bg6 {
+		left:0;
+		width:25%;
+	}
+	div#bg7 {
+		left:25%;
+		width:25%;
+	}
+	div#bg8 {
+		left:50%;
+		width:25%;
+	}
+	div#bg9 {
+		left:75%;
+		width:25%;
+	}
+	img.bgt{
+		left:50%;
+		margin-left:-720px;
+	}
+	img.bgi {
+		left:50%;
+		margin-left: -180px;
+	}
+	div.bunsyo {
+		left:50%;
+	}
+}
+
+
+div.bunsyo{
+	color:#FFFFFF;
+	font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	z-index:2;
+	white-space:nowrap;
+}
+
+div#top {
+	position: absolute;
+	top:200px;
+	font-size:45px;
+}
+
+div#LiSlogo{
+	z-index:2;
+	margin-left:-100px;
+	position:absolute;
+	top:0;
+}
+
+div#title {
+	position:absolute;
+	margin-left:-170px;
+	top:70px;
+}
+
+div#dateplace {
+	position:absolute;
+	top:90px;
+	margin-left:-100px;
+}
+
+div#menu {
+	position:absolute;
+	top:100px;
+	margin-left:-120px;
+}
+
+div#spacestudents {
+	position:absolute;
+	top:100px;
+	margin-left:-100px;
+}
+
+div#feel {
+	position:absolute;
+	top:100px;
+	margin-left:-100px;
+}
+
+div#darkmatter {
+	position:absolute;
+	top:100px;
+	margin-left:-60px;
+}
+
+div#books {
+	position:absolute;
+	top:100px;
+	margin-left:-50px;
+}
+
+div#hottopics {
+	position:absolute;
+	top:100px;
+	margin-left:-50px;
+}
+
+div#LiS {
+	position:absolute;
+	top:100px;
+	margin-left:-100px;
+}
+
+footer{
+	position:absolute;
+	top:1127px;
+}

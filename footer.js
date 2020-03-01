@@ -1,0 +1,2 @@
+dateObject=new Date();
+document.write('<div style="overflow:hidden; width:100%; font-family:sans-serif;border-top:solid;"><p>Copyright © '+dateObject.getFullYear()+' Live in SPACE Project（現在は活動停止）</p></div>')

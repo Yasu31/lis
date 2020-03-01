@@ -1,0 +1,80 @@
+<!--kunichan.css-->
+
+#all{
+	
+	}
+	
+#topimg{
+		width:980px;
+		height:300px;
+		border-bottom:1px; 
+		solid #ffffff; 
+		alt="Now loading..." 
+		class="bg bgt"
+	}
+		
+#shokai{
+		font-size:130%;
+		padding:20px;
+		line-height:110%;
+		width:600px;
+	}
+		
+#img1{
+		width:300px;
+		position:absolute;
+		top:320px;
+		left:650px;
+		line-height:130%;
+	}
+		
+#bg{
+	position:absolute;
+	top:600px;
+	width:900px;
+	height:300px;
+	left:15px
+	}
+		
+.content{
+		position:absolute;
+		width:900px;
+		top:600px;
+	}
+		
+#rocket{
+		top:760px;
+		left:35px
+	}
+		
+#miuraori{
+		top:580px;
+		left:535px
+	}
+
+#papercraft{
+		top:1080px;
+		left:50px
+	}
+
+#swingby{
+		top:920px;
+		left:550px
+	}
+		
+.name{
+		position:absolute;
+		top:95px;
+		left:125px
+	}
+		
+.name1{
+		position:absolute;
+		top:80px;
+		left:110px
+	}
+		
+#back{
+		position:absolute;
+		top:1280px
+	}

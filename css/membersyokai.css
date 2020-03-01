@@ -1,0 +1,19 @@
+body#membersyokaibody div#membersyokai {
+	display:block;
+	position:relative;
+	width:100%;
+	background-color:#F0FFFF;
+	border-bottom:1px solid #CCCCCC;
+	}
+	
+body#membersyokaibody div#membersyokai ul{
+	list-style:none;
+	}
+		
+body#membersyokaibody div#membersyokai ul li{
+	float:left;
+	}
+	
+body#membersyokaibody div#membersyokai div.yokoretsu{
+	display:inline-block
+	}

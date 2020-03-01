@@ -1,0 +1,34 @@
+body#schedulebody div#schedule {
+	display:block;
+	position:relative;
+	width:980px;
+	height:;	
+	background-color:#F0FFF0;
+	border-bottom:1px solid #CCCCCC;
+	}
+	
+table {
+border-collapse: collapse;
+width:100%;
+}
+th.t_top {
+    border-top: #be1309 4px solid;
+}
+th {
+	border-bottom: #e3e3e3 1px dotted;
+	text-align: center;
+	padding: 13px;
+	font-weight: bolder;
+}
+td.t_top {
+	border-top: #b3b3b3 4px solid;
+}
+td {
+	border-bottom: #e3e3e3 1px dotted;
+	text-align: left;
+	padding: 10px;
+}
+tr:hover {
+    background: #3D80DF;
+    color: #FFFFFF;
+}

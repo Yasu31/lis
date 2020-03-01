@@ -1,0 +1,49 @@
+<!--feel2014.css-->
+
+html{
+    width:800px;
+}
+
+#all{margin:10px;}
+
+#topimg{width="980" height="350" alt="Now loading..." class="bg bgt"}
+
+
+#syusai{
+	
+	position:absolute;
+	left:400px;
+}
+
+#basyo{ 
+
+	float:left;
+	width="300"
+	bottom="300"
+	
+	}
+
+#kyonen{float:right;
+position:absolute;
+left:350px;
+
+}
+
+
+
+
+#footer{
+clear:both;
+position:absolute;
+top:1000px;
+}
+
+#link{
+clear:both;
+
+}
+
+#kyousan{
+clear:both;
+
+}

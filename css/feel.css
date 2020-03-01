@@ -1,0 +1,18 @@
+body div#feel11 {
+	display:block;
+	position:relative;
+	width:100%;
+	background-color:#F0FFFF
+;
+	border-bottom:1px solid #CCCCCC;
+	}
+	
+body h1.topimage{
+	display:block;
+	width:100%;
+	}
+	
+body p.feel1{
+	 font-weight:bolder;
+	 color:blue;
+}
