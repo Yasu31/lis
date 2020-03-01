@@ -2,7 +2,7 @@
 	MaxImage 2.0 (Fullscreen Slideshow for use with jQuery Cycle Plugin)
 	--------------------------------------------------------------------
 	
-	Examples and documentation at: http://www.aaronvanderzwan.com/maximage/2.0/
+	Examples and documentation at: https://www.aaronvanderzwan.com/maximage/2.0/
 	Copyright (c) 2007-2012 Aaron Vanderzwan
 	Dual licensed under the MIT and GPL licenses.
 	
@@ -10,21 +10,21 @@
 	This plugin is intended to simplify the creation of fullscreen 
 	background slideshows.  It is intended to be used alongside the 
 	jQuery Cycle plugin: 
-	http://jquery.malsup.com/cycle/
+	https://jquery.malsup.com/cycle/
 	
 	If you simply need a fullscreen background image, please
 	refer to the following document for ways to do this that
 	are much more simple:
-	http://css-tricks.com/perfect-full-page-background-image/
+	https://css-tricks.com/perfect-full-page-background-image/
 	
 	If you have any questions please contact Aaron Vanderzwan
-	at http://www.aaronvanderzwan.com/blog/
+	at https://www.aaronvanderzwan.com/blog/
 	Documentation at:
-	http://blog.aaronvanderzwan.com/2012/07/maximage-2-0/
+	https://blog.aaronvanderzwan.com/2012/07/maximage-2-0/
 	
 	HISTORY:
 	MaxImage 2.0 is a project first built as jQuery MaxImage Plugin 
-	(http://www.aaronvanderzwan.com/maximage/). Once CSS3 came along, 
+	(https://www.aaronvanderzwan.com/maximage/). Once CSS3 came along, 
 	the background-size:cover solved the problem MaxImage
 	was intended to solve.  However, fully customizable
 	fullscreen slideshows is still fairly complex and I have not
@@ -59,7 +59,7 @@
 		
 */
 /*!	
- * Maximage Version: 2.0.8 (16-Jan-2012) - http://www.aaronvanderzwan.com/maximage/2.0/
+ * Maximage Version: 2.0.8 (16-Jan-2012) - https://www.aaronvanderzwan.com/maximage/2.0/
  */
 
 
@@ -690,7 +690,7 @@
 		fillElement: 'window', // Either 'window' or a CSS selector for a parent element
 		overrideMSIEStop: false, // This gives the option to not 'stop' load for MSIE (stops coded background images from loading so we can preload)... 
 								 // If setting this option to true, please beware of IE7/8 "Stack Overflow" error but if there are more than 13 slides
-								 // The description of the bug: http://blog.aaronvanderzwan.com/forums/topic/stack-overflow-in-ie-7-8/#post-33038
+								 // The description of the bug: https://blog.aaronvanderzwan.com/forums/topic/stack-overflow-in-ie-7-8/#post-33038
 		onFirstImageLoaded: function(){},
 		onImagesLoaded: function(){}
 	}
