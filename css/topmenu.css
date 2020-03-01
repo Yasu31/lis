@@ -4,9 +4,10 @@
   margin: 0;
   width: 100%;
   padding: 0;
+  top: 0px;
   line-height: 1;
   display: block;
-  position: relative;
+  position: fixed;
   font-family: 'PT Sans', sans-serif;
   height: 40px;
   border-bottom-style: solid;
